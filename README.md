@@ -1,16 +1,17 @@
-### Hi there 👋
+### welcome to my profile 
 
-<!--
-**sofiamilena/sofiamilena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I'm milena sofia 👧
 
-Here are some ideas to get you started:
+-I'm studying at Alura 👩‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-I'm developing myself in javascript languages 👩‍🎓
+
+-I use this space to organize and share my projects already developed 🖤
+
+### you can contact 📧
+
+milena.sofia@escola.pr.gov.br 📧
+
+@milenasofia56
+
+(https://tenor.com/pt-BR/view/hasher-happy-sticker-gif-24532284)
