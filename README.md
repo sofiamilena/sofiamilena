@@ -10,8 +10,8 @@
 
 ### you can contact 📧
 
-milena.sofia@escola.pr.gov.br 📧
+milena.sofia@escola.pr.gov.pr
 
-@milenasofia56
+https://media.tenor.com/MI6L9VIBHe4AAAAi/hasher-happy-sticker.gif
 
-![](https://tenor.com/pt-BR/view/hasher-happy-sticker-gif-24532284)
+
