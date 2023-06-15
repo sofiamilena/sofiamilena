@@ -2,7 +2,7 @@
 
 -I'm milena sofia 👧
 
--I'm studying at Alura 👩‍🎓
+-I'm studying at [Alura](https://www.alura.pr.gov.br) 👩‍🎓
 
 -I'm developing myself in javascript languages 👩‍🎓
 
@@ -14,4 +14,4 @@ milena.sofia@escola.pr.gov.br 📧
 
 @milenasofia56
 
-(https://tenor.com/pt-BR/view/hasher-happy-sticker-gif-24532284)
+![](https://tenor.com/pt-BR/view/hasher-happy-sticker-gif-24532284)
