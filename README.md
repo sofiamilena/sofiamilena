@@ -12,7 +12,7 @@ I'm milena sofia 👧
 
 milena.sofia@escola.pr.gov.pr
 
-[@milenasofia56](https://www.instagram.com/)
+[@milenasofia56](https://www.instagram.com/milenasofia56/)
 
 ![](https://media.tenor.com/MI6L9VIBHe4AAAAi/hasher-happy-sticker.gif)
 
